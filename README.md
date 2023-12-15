@@ -1,1 +1,1 @@
-<img id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=f1ex99obliai8n6ulhpxe0ot9&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=false">
+<img id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=f1ex99obliai8n6ulhpxe0ot9&amp;cover_image=true&amp;theme=default&amp;amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=false">
