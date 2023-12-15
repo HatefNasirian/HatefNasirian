@@ -1,2 +1,1 @@
-### Hi there 👋
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=f1ex99obliai8n6ulhpxe0ot9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=f1ex99obliai8n6ulhpxe0ot9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)]
+<img id="example-view" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=f1ex99obliai8n6ulhpxe0ot9&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color_cover=false">
